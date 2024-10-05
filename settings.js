@@ -16,18 +16,18 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V4-MD
+//  * @project_name : STEEZY_.BOT 
 //  * @author : salmanytofficial
 //  * @youtube : https://www.youtube.com/@s4salmanyt
-//  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
+//  * @description : steezy-bot ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: ahmmikun
 //Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//GitHub: @https://github.com/Seansteezy
+//WhatsApp: +27655831912
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -40,8 +40,8 @@ const chalk = require('chalk');
 
 //owmner v card
 global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.socialm = "GitHub: https://github.com/Seansteezy" //ur github or insta name
+global.location = "South africa, Johannesburg, randburg" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
@@ -50,13 +50,13 @@ global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner na
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
-global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.wm = "STEEZY-BOT."
+global.botscript = 'https://github.com/Seansteezy' //script link
+global.packname = "LOVE STEEZY"
+global.author = "MΛDΣ BY STEEZY"
+global.creator = "27655831912@s.whatsapp.net"
+global.xprefix = '!'
+global.premium = ["27655831912"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
